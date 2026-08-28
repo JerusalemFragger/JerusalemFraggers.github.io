@@ -1,4 +1,4 @@
-# Welcome to My Portfolio Hello! My name is [JerusalenFragger].
+# Welcome to My Portfolio Hello! My name is [ic1716482].
 
 ## Projects
 
@@ -8,8 +8,8 @@
 
 ## About Me
 
-Click here to learn more → [About Me](about.mdLinks)
+Click here to learn more → [About Me](about.md)
 
 ## Notebook
 
-Click here to go to my notebook → [Notebook](notebook.mdLinks)
+Click here to go to my notebook → [Notebook](notebook.md)
